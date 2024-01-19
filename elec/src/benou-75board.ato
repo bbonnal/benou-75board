@@ -1,2 +1,6 @@
+import RP2040Kit from "RP2040/RP2040Kit.ato"
+
 module Benou75board:
+
+    mcu = new RP2040Kit
     signal gnd

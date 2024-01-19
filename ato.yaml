@@ -4,3 +4,4 @@ builds:
     entry: elec/src/benou-75board.ato:Benou75board
 dependencies:
 - generics
+- RP2040
